@@ -1,0 +1,20 @@
+# Table of content
+
+* [产品介绍](articles/cloudmdm/1-/jieshao.md)
+  * [产品概述](articles/cloudmdm/1-/cpgs.md)
+  * [产品优势](articles/cloudmdm/1-/youshi.md)
+  * [应用场景](articles/cloudmdm/1-/yingyongcj.md)
+  * [基础架构](articles/cloudmdm/1-/jiagou.md)
+  * [产品历程](articles/cloudmdm/1-/licheng.md)
+* [操作准备](articles/cloudmdm/2-/zhunbei.md)
+  * [注册登录](articles/cloudmdm/2-/zc.md)
+* [用户手册](articles/cloudmdm/3-/yhsc.md)
+  * [主数据建模](articles/cloudmdm/3-/jianmo.md)
+  * [主数据权限](articles/cloudmdm/3-/quanxian.md)
+  * [主数据装载](articles/cloudmdm/3-/zz.md)
+  * [主数据分发](articles/cloudmdm/3-/ff.md)
+  * [主数据排重](articles/cloudmdm/3-/paich.md)
+  * [主数据参数](articles/cloudmdm/3-/canshu.md)
+  * [主数据副本](articles/cloudmdm/3-/fuben.md)
+  * [主数据](articles/cloudmdm/3-/zhushuju.md)
+
