@@ -1,0 +1,30 @@
+{ 
+ "title": "云主数据管理", 
+ "desc": "主数据管理（Master Data Management）：指对企业的主数据进行统一管理的系统，它帮助企业创建并维护
+
+整个企业内主数据的单一视图，保证整个企业IT系统协调和重用准确的、一致的、完整性的主数据。云主数据管理包括
+
+以下特性：主数据建模、主数据权限、主数据装载、主数据分发、主数据排重、主数据参数和主数据副本。", 
+ "list": [ 
+ { 
+ "title": "注册登录", 
+ "link": "#/md-build/integration_cloud_mdm/articles/cloudmdm/2-/zc.md", 
+ "desc": "介绍主数据的注册和登录过程" 
+ }, 
+ { 
+ "title": "主数据建模", 
+ "link": "#/md-build/integration_cloud_mdm/articles/cloudmdm/3-/jianmo.md", 
+ "desc": "主要包括实体建模、实体属性组、主数据定义（界面建模）等方面" 
+ }, 
+ { 
+ "title": "主数据权限", 
+ "link": "#/md-build/integration_cloud_mdm/articles/cloudmdm/3-/quanxian.md", 
+ "desc": "主数据权限主要由远程系统和主数据权限构成" 
+ }, 
+ { 
+ "title": "主数据排重", 
+ "link": "#/md-build/integration_cloud_mdm/articles/cloudmdm/3-/paich.md", 
+ "desc": "主数据排重包括排重合并、查重规则和合并任务" 
+ } 
+ ] 
+ } 
